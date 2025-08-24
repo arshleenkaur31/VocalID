@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/devraj210705-2465s-projects/v0-next-js-app-structure](https://vercel.com/devraj210705-2465s-projects/v0-next-js-app-structure)**
+**[https://vocal-id.vercel.app/]**
 
 ## Build your app
 
